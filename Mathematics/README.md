@@ -1,9 +1,10 @@
 # Mathematics Review Material
 
-The following links provide review material organized by topic. The review material is provided in the form of both video lectures and written sources. CTRL-click (Windows) or CMD-click (Mac) any link to open it in a new tab.
+The following links provide review material organized by topic. The review material is provided in the form of both video lectures and written sources. *TIP: CTRL-click (Windows) or CMD-click (Mac) any link to open it in a new tab.*
 
 # Functions
-[OpenStax Precalculus](https://openstax.org/details/books/precalculus-2e) **(Website: OpenStax)**
+
+## [OpenStax Precalculus](https://openstax.org/details/books/precalculus-2e) **(Website: OpenStax)**
 
 Recommended readings:
 
@@ -17,18 +18,18 @@ Recommended readings:
 
 # Linear Functions
 
-OpenStax Precalculus (Website: OpenStax)
+## [OpenStax Precalculus](https://openstax.org/details/books/precalculus-2e) **(Website: OpenStax)**
 
 Recommended readings:
 
-Linear Functions
-Graphs of Linear Functions
-Modeling with Linear Functions
-Fitting Linear Models to Data
+- [Linear Functions](https://openstax.org/books/precalculus/pages/2-1-linear-functions)
+- [Graphs of Linear Functions](https://openstax.org/books/precalculus/pages/2-2-graphs-of-linear-functions)
+- [Modeling with Linear Functions](https://openstax.org/books/precalculus/pages/2-3-modeling-with-linear-functions)
+- [Fitting Linear Models to Data](https://openstax.org/books/precalculus/pages/2-4-fitting-linear-models-to-data)
 
 # Polynomial and Rational Functions
 
-OpenStax Precalculus (Website: OpenStax)
+## [OpenStax Precalculus] (Website: OpenStax)
 
 Recommended readings:
 
@@ -44,7 +45,7 @@ Modeling Using Variation
 
 # Exponential and Logarithmic Functions
 
-OpenStax Precalculus (Website: OpenStax)
+## OpenStax Precalculus (Website: OpenStax)
 
 Recommended readings:
 
@@ -59,7 +60,7 @@ Fitting Exponential Models to Data
 
 # Systems of Linear Equations
 
-OpenStax Precalculus (Website: OpenStax)
+## OpenStax Precalculus (Website: OpenStax)
 
 Recommended readings:
 
@@ -68,7 +69,7 @@ Systems of Linear Equations: Three Variables
 
 # Continuity
 
-OpenStax Precalculus (Website: OpenStax)
+## OpenStax Precalculus (Website: OpenStax)
 
 Recommended readings:
 
@@ -76,19 +77,19 @@ Continuity
 
 # Calculus
 
-OpenStax Calculus (Website: OpenStax)
+## OpenStax Calculus (Website: OpenStax)
 
-Differential Calculus (Website: Khan Academy)
+## Differential Calculus (Website: Khan Academy)
 
 Topics covered: Limits and continuity, derivatives, mean value theorem , extreme value theorem, extremity, concavity, inflection points.
 
-Integral Calculus (Website: Khan Academy)
+## Integral Calculus (Website: Khan Academy)
 
 Topics covered: Indefinite and definite integrals, applications of integrals, series.
 
 # Linear Algebra
 
-[Linear Algebra](https://www.khanacademy.org/math/linear-algebra) **(Website: Khan Academy)**
+## [Linear Algebra](https://www.khanacademy.org/math/linear-algebra) **(Website: Khan Academy)**
 
 Topics covered: vectors and spaces, matrix transformations.
 
