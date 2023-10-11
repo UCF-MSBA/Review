@@ -1,12 +1,13 @@
 # Mathematics Review Material
 
-The following links provide review material organized by topic. The review material is provided in the form of both video lectures and written sources. *TIP: CTRL-click (Windows) or CMD-click (Mac) any link to open it in a new tab.*
+The following links provide free review material organized by topic. The review material is provided in the form of both video lectures and written sources. *TIP: CTRL-click (Windows) or CMD-click (Mac) any link to open it in a new tab.*
 
-# Functions
 
-## [OpenStax Precalculus](https://openstax.org/details/books/precalculus-2e) **(Website: OpenStax)**
+# [OpenStax: Precalculus](https://openstax.org/details/books/precalculus-2e)
 
 Recommended readings:
+
+## Functions
 
 - [Functions and Function Notation](https://openstax.org/books/precalculus-2e/pages/1-1-functions-and-function-notation)
 - [Domain and Range](https://openstax.org/books/precalculus-2e/pages/1-2-domain-and-range)
@@ -16,22 +17,14 @@ Recommended readings:
 - [Absolute Value Functions](https://openstax.org/books/precalculus-2e/pages/1-6-absolute-value-functions)
 - [Inverse Functions](https://openstax.org/books/precalculus-2e/pages/1-7-inverse-functions)
 
-# Linear Functions
-
-## [OpenStax Precalculus](https://openstax.org/details/books/precalculus-2e) **(Website: OpenStax)**
-
-Recommended readings:
+## Linear Functions
 
 - [Linear Functions](https://openstax.org/books/precalculus-2e/pages/2-1-linear-functions)
 - [Graphs of Linear Functions](https://openstax.org/books/precalculus-2e/pages/2-2-graphs-of-linear-functions)
 - [Modeling with Linear Functions](https://openstax.org/books/precalculus-2e/pages/2-3-modeling-with-linear-functions)
 - [Fitting Linear Models to Data](https://openstax.org/books/precalculus-2e/pages/2-4-fitting-linear-models-to-data)
 
-# Polynomial and Rational Functions
-
-## [OpenStax Precalculus](https://openstax.org/details/books/precalculus-2e) (Website: OpenStax)
-
-Recommended readings:
+## Polynomial and Rational Functions
 
 - [Complex Numbers](https://openstax.org/books/precalculus-2e/pages/3-1-complex-numbers)
 - [Quadratic Functions](https://openstax.org/books/precalculus-2e/pages/3-2-quadratic-functions)
@@ -43,11 +36,7 @@ Recommended readings:
 - [Inverses and Radical Functions](https://openstax.org/books/precalculus-2e/pages/3-8-inverses-and-radical-functions)
 - [Modeling Using Variation](https://openstax.org/books/precalculus-2e/pages/3-9-modeling-using-variation)
 
-# Exponential and Logarithmic Functions
-
-## [OpenStax Precalculus](https://openstax.org/details/books/precalculus-2e) (Website: OpenStax)
-
-Recommended readings:
+## Exponential and Logarithmic Functions
 
 - [Exponential Functions](https://openstax.org/books/precalculus-2e/pages/4-1-exponential-functions)
 - [Graphs of Exponential Functions](https://openstax.org/books/precalculus-2e/pages/4-2-graphs-of-exponential-functions)
@@ -58,38 +47,26 @@ Recommended readings:
 - [Exponential and Logarithmic Models](https://openstax.org/books/precalculus-2e/pages/4-7-exponential-and-logarithmic-models)
 - [Fitting Exponential Models to Data](https://openstax.org/books/precalculus-2e/pages/4-8-fitting-exponential-models-to-data)
 
-# Systems of Linear Equations
-
-## [OpenStax Precalculus](https://openstax.org/details/books/precalculus-2e) (Website: OpenStax)
-
-Recommended readings:
+## Systems of Linear Equations
 
 - [Systems of Linear Equations: Two Variables](https://openstax.org/books/precalculus-2e/pages/9-1-systems-of-linear-equations-two-variables)
 - [Systems of Linear Equations: Three Variables](https://openstax.org/books/precalculus-2e/pages/9-2-systems-of-linear-equations-three-variables)
 
-# Continuity
-
-## OpenStax Precalculus (Website: OpenStax)
-
-Recommended readings:
+## Continuity
 
 - [Continuity](https://openstax.org/books/precalculus-2e/pages/12-3-continuity)
 
-# Calculus
+# [OpenStax: Calculus](https://openstax.org/details/books/calculus-volume-1)
 
-## [OpenStax Calculus](https://openstax.org/details/books/calculus-volume-1) (Website: OpenStax)
-
-## [Differential Calculus](https://www.khanacademy.org/math/differential-calculus) (Website: Khan Academy)
+# [Khan Academy: Differential Calculus](https://www.khanacademy.org/math/differential-calculus) (Website: Khan Academy)
 
 Topics covered: Limits and continuity, derivatives, mean value theorem , extreme value theorem, extremity, concavity, inflection points.
 
-## [Integral Calculus](https://www.khanacademy.org/math/integral-calculus) (Website: Khan Academy)
+## [Integral Calculus](https://www.khanacademy.org/math/integral-calculus) 
 
 Topics covered: Indefinite and definite integrals, applications of integrals, series.
 
-# Linear Algebra
-
-## [Linear Algebra](https://www.khanacademy.org/math/linear-algebra) **(Website: Khan Academy)**
+## [Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
 
 Topics covered: vectors and spaces, matrix transformations.
 
