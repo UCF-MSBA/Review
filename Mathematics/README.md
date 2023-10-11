@@ -58,7 +58,7 @@ Recommended readings:
 
 # [OpenStax: Calculus](https://openstax.org/details/books/calculus-volume-1)
 
-# [Khan Academy: Differential Calculus](https://www.khanacademy.org/math/differential-calculus) (Website: Khan Academy)
+# [Khan Academy: Differential Calculus](https://www.khanacademy.org/math/differential-calculus)
 
 Topics covered: Limits and continuity, derivatives, mean value theorem , extreme value theorem, extremity, concavity, inflection points.
 
