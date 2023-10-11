@@ -62,11 +62,11 @@ Recommended readings:
 
 Topics covered: Limits and continuity, derivatives, mean value theorem , extreme value theorem, extremity, concavity, inflection points.
 
-## [Integral Calculus (Khan Academy)](https://www.khanacademy.org/math/integral-calculus) 
+# [Integral Calculus (Khan Academy)](https://www.khanacademy.org/math/integral-calculus) 
 
 Topics covered: Indefinite and definite integrals, applications of integrals, series.
 
-## [Linear Algebra (Khan Academy)](https://www.khanacademy.org/math/linear-algebra)
+# [Linear Algebra (Khan Academy)](https://www.khanacademy.org/math/linear-algebra)
 
 Topics covered: vectors and spaces, matrix transformations.
 
