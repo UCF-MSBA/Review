@@ -3,7 +3,7 @@
 The following links provide free review material organized by topic. The review material is provided in the form of both video lectures and written sources. *TIP: CTRL-click (Windows) or CMD-click (Mac) any link to open it in a new tab.*
 
 
-# [OpenStax: Precalculus](https://openstax.org/details/books/precalculus-2e)
+# [Precalculus (OpenStax)](https://openstax.org/details/books/precalculus-2e)
 
 Recommended readings:
 
@@ -56,17 +56,17 @@ Recommended readings:
 
 - [Continuity](https://openstax.org/books/precalculus-2e/pages/12-3-continuity)
 
-# [OpenStax: Calculus](https://openstax.org/details/books/calculus-volume-1)
+# [Calculus (OpenStax)](https://openstax.org/details/books/calculus-volume-1)
 
-# [Khan Academy: Differential Calculus](https://www.khanacademy.org/math/differential-calculus)
+# [Differential Calculus (Khan Academy)](https://www.khanacademy.org/math/differential-calculus)
 
 Topics covered: Limits and continuity, derivatives, mean value theorem , extreme value theorem, extremity, concavity, inflection points.
 
-## [Integral Calculus](https://www.khanacademy.org/math/integral-calculus) 
+## [Integral Calculus (Khan Academy)](https://www.khanacademy.org/math/integral-calculus) 
 
 Topics covered: Indefinite and definite integrals, applications of integrals, series.
 
-## [Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
+## [Linear Algebra (Khan Academy)](https://www.khanacademy.org/math/linear-algebra)
 
 Topics covered: vectors and spaces, matrix transformations.
 
