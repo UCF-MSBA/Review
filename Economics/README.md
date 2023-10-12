@@ -6,4 +6,4 @@ The following links provide free review material organized by topic. The review 
 
 # [Principles of Microeconomics (OpenStax)](https://openstax.org/details/books/principles-microeconomics-3e)
 
-# **Under Construction**
+# **\[Under Construction...\]**
