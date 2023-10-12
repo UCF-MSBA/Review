@@ -141,3 +141,5 @@ Recommended readings:
 - [The Regression Equation](https://openstax.org/books/introductory-business-statistics/pages/13-4-the-regression-equation)
 - [Interpretation of Regression Coefficients](https://openstax.org/books/introductory-business-statistics/pages/13-5-interpretation-of-regression-coefficients-elasticity-and-logarithmic-transformation)
 - [Predicting with a Regression Equation](https://openstax.org/books/introductory-business-statistics/pages/13-6-predicting-with-a-regression-equation)
+
+### [Back to Homepage](../README.md)
