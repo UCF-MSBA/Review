@@ -2,6 +2,23 @@
 
 The following links provide free review material organized by topic. The review material is provided in the form of both video lectures and written sources. *TIP: CTRL-click (Windows) or CMD-click (Mac) any link to open it in a new tab.*
 
+# [Contemporary Mathematics (OpenStax)](https://openstax.org/details/books/contemporary-mathematics)
+
+Recommended readings:
+
+## Set Theory
+
+- [Basic Set Concepts](https://openstax.org/books/contemporary-mathematics/pages/1-1-basic-set-concepts)
+- [Subsets](https://openstax.org/books/contemporary-mathematics/pages/1-2-subsets)
+- [Understanding Venn Diagrams](https://openstax.org/books/contemporary-mathematics/pages/1-3-understanding-venn-diagrams)
+- [Set Operations with Two Sets](https://openstax.org/books/contemporary-mathematics/pages/1-4-set-operations-with-two-sets)
+- [Set Operations with Three Sets](https://openstax.org/books/contemporary-mathematics/pages/1-5-set-operations-with-three-sets)
+
+## Relational Algebra
+
+TBD.
+
+
 
 # [Precalculus (OpenStax)](https://openstax.org/details/books/precalculus-2e)
 
