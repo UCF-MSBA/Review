@@ -16,9 +16,9 @@ Recommended readings:
 
 ## Relational Algebra
 
-TBD.
-
-
+- [Linear Equations in One Variable](https://openstax.org/books/contemporary-mathematics/pages/5-2-linear-equations-in-one-variable-with-applications)
+- [Linear Inequalities in One Variable](https://openstax.org/books/contemporary-mathematics/pages/5-3-linear-inequalities-in-one-variable-with-applications)
+- [Quadratic Equations with Two Variables](https://openstax.org/books/contemporary-mathematics/pages/5-6-quadratic-equations-with-two-variables-with-applications)
 
 # [Precalculus (OpenStax)](https://openstax.org/details/books/precalculus-2e)
 
@@ -73,15 +73,38 @@ Recommended readings:
 
 - [Continuity](https://openstax.org/books/precalculus-2e/pages/12-3-continuity)
 
-# [Calculus (OpenStax)](https://openstax.org/details/books/calculus-volume-1)
+# Differential Calculus
 
-# [Differential Calculus (Khan Academy)](https://www.khanacademy.org/math/differential-calculus)
+Topics covered: Limits and continuity, derivatives, mean value theorem, extreme value theorem, extremity, concavity, inflection points.
 
-Topics covered: Limits and continuity, derivatives, mean value theorem , extreme value theorem, extremity, concavity, inflection points.
+ ## [Differential Calculus (OpenStax)](https://openstax.org/details/books/calculus-volume-1)
+
+Recommended readings:
+
+- [Derivatives and the Shape of a Graph](https://openstax.org/books/calculus-volume-1/pages/4-5-derivatives-and-the-shape-of-a-graph)
+- [Limits at Infinity and Asymptotes](https://openstax.org/books/calculus-volume-1/pages/4-6-limits-at-infinity-and-asymptotes)
+- [L’Hôpital’s Rule](https://openstax.org/books/calculus-volume-1/pages/4-8-lhopitals-rule)
+- [Newton’s Method](https://openstax.org/books/calculus-volume-1/pages/4-9-newtons-method)
+- [Antiderivatives](https://openstax.org/books/calculus-volume-1/pages/4-10-antiderivatives)
+
+## [Differential Calculus (Khan Academy)](https://www.khanacademy.org/math/differential-calculus)
+
+# Integral Calculus
+
+Topics covered: Indefinite and definite integrals, applications of integrals, series.
+
+ ## [Integral Calculus (OpenStax)](https://openstax.org/details/books/calculus-volume-1)
+
+Recommended readings:
+
+- [Integration by Substition](https://openstax.org/books/calculus-volume-1/pages/5-5-substitution)
+- [Integrals Involving Exponential and Logarithmic Functions](https://openstax.org/books/calculus-volume-1/pages/5-6-integrals-involving-exponential-and-logarithmic-functions)
 
 # [Integral Calculus (Khan Academy)](https://www.khanacademy.org/math/integral-calculus) 
 
-Topics covered: Indefinite and definite integrals, applications of integrals, series.
+Recommended videos:
+- [U-substitution](https://www.khanacademy.org/math/integral-calculus/ic-integration/ic-u-sub/v/u-substitution)
+- [Integration by Parts](https://www.khanacademy.org/math/ap-calculus-bc/bc-integration-new/bc-6-11/v/deriving-integration-by-parts-formula)
 
 # [Linear Algebra (Khan Academy)](https://www.khanacademy.org/math/linear-algebra)
 

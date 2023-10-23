@@ -4,6 +4,8 @@ The following links provide free review material organized by topic. The review 
 
 # [Principles of Economics (OpenStax)](https://openstax.org/details/books/principles-economics-3e)
 
+<!-- LET JOSH REVIEW MY CHANGES BEFORE PUBLISHING! -->
+
 # [Principles of Microeconomics (OpenStax)](https://openstax.org/details/books/principles-microeconomics-3e)
 
 <!-- On Monopoly pricing:-->
