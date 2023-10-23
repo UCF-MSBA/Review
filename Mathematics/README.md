@@ -100,9 +100,10 @@ Recommended readings:
 - [Integration by Substition](https://openstax.org/books/calculus-volume-1/pages/5-5-substitution)
 - [Integrals Involving Exponential and Logarithmic Functions](https://openstax.org/books/calculus-volume-1/pages/5-6-integrals-involving-exponential-and-logarithmic-functions)
 
-# [Integral Calculus (Khan Academy)](https://www.khanacademy.org/math/integral-calculus) 
+## [Integral Calculus (Khan Academy)](https://www.khanacademy.org/math/integral-calculus) 
 
 Recommended videos:
+
 - [U-substitution](https://www.khanacademy.org/math/integral-calculus/ic-integration/ic-u-sub/v/u-substitution)
 - [Integration by Parts](https://www.khanacademy.org/math/ap-calculus-bc/bc-integration-new/bc-6-11/v/deriving-integration-by-parts-formula)
 
