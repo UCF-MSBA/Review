@@ -14,11 +14,23 @@ Recommended readings:
 - [Set Operations with Two Sets](https://openstax.org/books/contemporary-mathematics/pages/1-4-set-operations-with-two-sets)
 - [Set Operations with Three Sets](https://openstax.org/books/contemporary-mathematics/pages/1-5-set-operations-with-three-sets)
 
-## Relational Algebra
+# Relational Algebra for Database Management Systems (DBMS)
 
-- [Linear Equations in One Variable](https://openstax.org/books/contemporary-mathematics/pages/5-2-linear-equations-in-one-variable-with-applications)
-- [Linear Inequalities in One Variable](https://openstax.org/books/contemporary-mathematics/pages/5-3-linear-inequalities-in-one-variable-with-applications)
-- [Quadratic Equations with Two Variables](https://openstax.org/books/contemporary-mathematics/pages/5-6-quadratic-equations-with-two-variables-with-applications)
+Recommended readings:
+
+- [Introduction of Relational Algebra in DBMS](https://www.geeksforgeeks.org/introduction-of-relational-algebra-in-dbms/)
+- [Set Theory Operations in Relational Algebra](https://www.geeksforgeeks.org/set-theory-operations-in-relational-algebra/)
+- [Basic Operators in Relational Algebra](https://www.geeksforgeeks.org/basic-operators-in-relational-algebra-2/)
+
+<!--- 
+https://www.guru99.com/relational-algebra-dbms.html
+https://www.jobilize.com/online/course/0-4-relational-algebra-algebra-by-openstax
+Video Playlist:
+https://www.youtube.com/playlist?list=PLBlnK6fEyqRiyryTrbKHX1Sh9luYI0dhX
+Video 23:
+https://youtu.be/76v3gRns28U?si=k4FEK2GBNy_BT38p 
+https://en.wikipedia.org/wiki/Relational_algebra 
+!--->
 
 # [Precalculus (OpenStax)](https://openstax.org/details/books/precalculus-2e)
 
