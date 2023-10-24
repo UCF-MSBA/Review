@@ -16,7 +16,7 @@ Recommended readings:
 
 # Relational Algebra for Databases and SQL
 
-Recommended readings:
+Recommended readings (from [GeeksforGeeks](https://www.geeksforgeeks.org/)):
 
 - [Introduction of Relational Algebra in DBMS](https://www.geeksforgeeks.org/introduction-of-relational-algebra-in-dbms/)
 - [Set Theory Operations in Relational Algebra](https://www.geeksforgeeks.org/set-theory-operations-in-relational-algebra/)
