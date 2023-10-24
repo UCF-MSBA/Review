@@ -14,7 +14,7 @@ Recommended readings:
 - [Set Operations with Two Sets](https://openstax.org/books/contemporary-mathematics/pages/1-4-set-operations-with-two-sets)
 - [Set Operations with Three Sets](https://openstax.org/books/contemporary-mathematics/pages/1-5-set-operations-with-three-sets)
 
-# Relational Algebra for Database Management Systems (DBMS)
+# Relational Algebra for Databases and SQL
 
 Recommended readings:
 
