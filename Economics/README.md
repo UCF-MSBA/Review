@@ -30,6 +30,12 @@ Recommended readings:
 
 - [Price Elasticity of Demand and Price Elasticity of Supply](https://openstax.org/books/principles-microeconomics-3e/pages/5-1-price-elasticity-of-demand-and-price-elasticity-of-supply)
 
+
+## Consumer Choices
+
+- [Substitution Effect vs Income Effect](https://openstax.org/books/principles-microeconomics-3e/pages/6-2-how-changes-in-income-and-prices-affect-consumption-choices)
+- [Indifference Curves](https://openstax.org/books/principles-microeconomics-3e/pages/b-indifference-curves) 
+
 ## Perfect Competition vs Monopoly
 
 Concepts to be familiar with: Marginal Revenue and Marginal Cost, Profit Maximization for Perfect Competitors and Monopolies.
