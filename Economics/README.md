@@ -62,7 +62,7 @@ Recommended readings:
 - [How a Profit-Maximizing Monopoly Chooses Output and Price](https://openstax.org/books/principles-microeconomics-3e/pages/9-2-how-a-profit-maximizing-monopoly-chooses-output-and-price)
 - [Monopolistic Competition](https://openstax.org/books/principles-microeconomics-3e/pages/10-1-monopolistic-competition)
 
-# [Economics (LibreTexts Social Sciences Library)](https://socialsci.libretexts.org/Bookshelves/Economics/Economics_(Boundless))
+# [Economics (LibreTexts)](https://socialsci.libretexts.org/Bookshelves/Economics/Economics_(Boundless))
 
 Recommended readings:
 
